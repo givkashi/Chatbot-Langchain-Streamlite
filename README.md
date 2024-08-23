@@ -1,6 +1,8 @@
-# Chatbot with Streamlit, LangChain, and SQLite
+# Chatbot with Streamlit, LangChain, and SQLite <a href="https://medium.com/@givkashi/building-an-intelligent-chatbot-with-streamlit-langchain-and-sqlite-70236e0e9e76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@_giaabaoo_" height="30" width="40" /></a>
 
 Welcome to the Chatbot repository! This project demonstrates how to build an intelligent chatbot using Streamlit, LangChain, and SQLite. The chatbot provides real-time responses and allows users to manage and retrieve past conversations.
+
+<img src="https://github.com/givkashi/Chatbot-Langchain-Streamlite/blob/main/img.png" width="70%" height="70%"/>
 
 ## Features
 
